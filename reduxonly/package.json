@@ -1,0 +1,14 @@
+{
+  "name": "reduxonly",
+  "version": "1.0.0",
+  "description": "simple redux only demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gj",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
